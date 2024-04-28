@@ -1,4 +1,4 @@
-# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL:
 ## AIM:
 ## ALGORITHM:
 1. Start the program.
@@ -42,4 +42,4 @@ while True:
 ![image](https://github.com/MANIKUMARDK/2b_SLIDING_WINDOW_PROTOCOL/assets/147215581/b86f4ac3-7eda-4513-bae9-2dc7462f3e0c)
 
 ## RESULT:
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform stop and wait protocol was successfully executed.
